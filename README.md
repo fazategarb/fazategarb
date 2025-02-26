@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Faza Tegar Balintra!
+### <div align="center">Hi, I'm Faza Tegar Balintra 👋</div>
+#### <div align="center">A Collage Student Website Developer💻</div>
 
----
+## 💫 Github Activity:
 
 <img src="https://github-readme-stats.vercel.app/api?username=fazategarb&show_icons=true&theme=dark" alt="GitHub Stat"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazategarb&layout=compact&theme=dark" alt="Most Used Language"/>
 
