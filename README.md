@@ -1,5 +1,4 @@
-<h1>Hi, I'm Faza Tegar Balintra 👋</h1>
-<h3>A Student who interested in programing website and make project for my skill earn or maybe for working with someone. </h3>
+<h1>Hi, I'm Faza Tegar Balintra👋👋</h1>
 
 ## 🚀 About Me
 - 🔭 I’m currently working on an **Attendance System with Laravel 11 & QR Code**
