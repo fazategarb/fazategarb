@@ -19,7 +19,7 @@
 [![Faza's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fazategarb&bg_color=1E1E2E&color=C9CBFF&line=F5E0DC&point=F38BA8&area_color=313244&title_color=B4BEFE&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fazategarb&theme=catppuccin-mocha&hide_border=true" alt="git streak">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fazategarb&theme=catppuccin-mocha&hide_border=true&card_width=470" alt="git streak">
 <img src="https://github-readme-stats.vercel.app/api?username=fazategarb&show_icons=true&bg_color=1E1E2E&title_color=B4BEFE&text_color=C9CBFF&icon_color=F38BA8&border_color=313244" alt="git status">
 </div>
 
