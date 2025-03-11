@@ -20,6 +20,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=fazategarb&show_icons=true&bg_color=1E1E2E&title_color=B4BEFE&text_color=C9CBFF&icon_color=F38BA8&border_color=313244" alt="git status">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazategarb&layout=compact&theme=tokyonight&hide_border=true&border_radius=0">
 </div>
 
 ⭐️ *Feel free to fork, star, and connect! Let's build something great together! 🚀*
