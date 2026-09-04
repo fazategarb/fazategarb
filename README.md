@@ -1,1 +1,1 @@
-[![Faza's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fazategarb&bg_color=1E1E2E&color=C9CBFF&line=F5E0DC&point=F38BA8&area_color=313244&title_color=B4BEFE&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Faza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fazategarb)](https://github.com/ashutosh00710/github-readme-activity-graph)
