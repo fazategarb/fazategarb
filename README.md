@@ -2,7 +2,7 @@
 
   <!-- Header & Mascot -->
   <h1>Hi there, I'm Faza! 👋</h1>
-  <p><i>Fullstack Web Developer & IoT</i></p>
+  <p><i>Fullstack Web Developer</i></p>
 
   <img src="./assets/Yui derp.jpeg" alt="Mascot" width="180px" style="border-radius: 50%;" />
 
@@ -33,10 +33,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Fullstack Web Apps & IoT Integrations**
-- 🛠️ Tech Stack Focus: **React, TypeScript, Vite, & ESP32 Microcontrollers**
-- 📐 Interested in: **Computer Vision, Web Interactive Design, Microservice, & Edge Computing**
-- 💬 Ask me about: **Web Development, Sensors, or Microcontrollers**
+- 🌐 Specialized in **Fullstack Web Development** with modern JavaScript/TypeScript ecosystems.
+- ⚡ **Frontend:** Next.js, React, Tailwind CSS
+- 🛠️ **Backend & DB:** NestJS, Serverless Postgres (Neon DB), Cloudinary (Media Management)
+- ☁️ **Deployment & Cloud:** Vercel (Frontend), Render / Railway (Backend), Hostinger
+- 💬 Ask me about: **Web Architecture, REST APIs, & Cloud Deployment**
 
 ---
 
