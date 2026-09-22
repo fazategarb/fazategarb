@@ -1,1 +1,6 @@
-[![Faza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fazategarb)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![snake](https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/snake.svg)
+<div>
+    <img src="https://gitglance-eight.vercel.app/api/combined?username=fazategarb&style=vercel-lines&theme=monochrome" alt="GitHub stats" />
+    <img src="https://gitglance-eight.vercel.app/api/activity?username=fazategarb&style=vercel-lines&theme=monochrome" alt="GitHub stats" />
+
+</div>
